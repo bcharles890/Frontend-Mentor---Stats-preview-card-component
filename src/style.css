@@ -1,0 +1,46 @@
+@import url(https://fonts.google.com/specimen/Inter);
+@import url(https://fonts.google.com/specimen/Lexend+Deca);
+
+
+*{
+    
+}
+
+@media only screen and (max-width: 375px) {
+
+    body{
+        display: flex;
+        justify-content: center;
+        
+    }
+
+    #container{
+        border: solid;
+        width: 325px;
+       
+        
+
+    }
+
+    #img-container{
+        display: flex;
+        justify-content: center;
+    }
+
+    #img-container> img{
+
+        height: 100px;
+        width: 100px;
+        
+        
+        
+    }
+
+    #card-container{
+
+    }
+
+    #main-txt{}
+    
+    
+}
